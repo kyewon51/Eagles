@@ -1,4 +1,4 @@
-Ye Won Kang, 202303141,computer engineering,sophomore of Hufs
+YeWon Kang, 202303141,computer engineering,sophomore of Hufs
 
 
 import numpy as np
