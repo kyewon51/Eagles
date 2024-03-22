@@ -1,4 +1,4 @@
-Park Seoyeon,202302860,computer engineering,Hufs
+Park Seoyeon,202302860,computer engineering,Hufs,sophomore
 
 import numpy as np
 import matplotlib.pyplot as plt
