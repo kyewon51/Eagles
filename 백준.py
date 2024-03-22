@@ -1,4 +1,4 @@
-Seoyeon Park,202302860,computer engineering,sophomore of Hufs
+Yewon Kang,202303141,computer engineering,sophomore of Hufs
 
 
 import numpy as np
